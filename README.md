@@ -1,1 +1,0 @@
-# Quicksort2-sorting
